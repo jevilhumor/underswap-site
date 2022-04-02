@@ -104,7 +104,6 @@ button {
 	text-align: center;
 	width: 100%;
 	margin-top: 15px;
-	margin-bottom: 15px;
 	color: white;
 	border: 3px solid white; 
 }button:hover {
@@ -114,7 +113,6 @@ button {
 	text-align: center;
 	width: 100%;
 	margin-top: 15px;
-	margin-bottom: 15px;
 	color: white;
 	border: 3px solid yellow; 
 }
